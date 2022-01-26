@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">CalculadoraMVP</string>
+    <string name="button_zero">0</string>
+    <string name="button_one">1</string>
+    <string name="button_two">2</string>
+    <string name="button_three">3</string>
+    <string name="button_four">4</string>
+    <string name="button_five">5</string>
+    <string name="button_six">6</string>
+    <string name="button_seven">7</string>
+    <string name="button_eight">8</string>
+    <string name="button_nine">9</string>
+    <string name="button_point">.</string>
+    <string name="button_addition">+</string>
+    <string name="button_subtraction">-</string>
+    <string name="buttont_division">/</string>
+    <string name="buttont_multiplication">x</string>
+    <string name="buttont_power">^</string>
+    <string name="buttont_result">=</string>
+    <string name="buttont_ans">ANS</string>
+    <string name="buttont_C">C</string>
+    <string name="buttont_delete">DEL</string>
+    <string name="operation">No puede dejar campos vacios</string>
+    <string name="syntax_error">Syntax Error</string>
+</resources>
